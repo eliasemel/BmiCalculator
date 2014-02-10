@@ -1,0 +1,25 @@
+/Users/dbg/Documents/cordova/bmicalcuator/BmiCalculator/bmicalculator/platforms/android/bin/HelloCordova.ap_ \
+ : /Users/dbg/Documents/cordova/bmicalcuator/BmiCalculator/bmicalculator/platforms/android/res/drawable/icon.png \
+/Users/dbg/Documents/cordova/bmicalcuator/BmiCalculator/bmicalculator/platforms/android/res/drawable-hdpi/icon.png \
+/Users/dbg/Documents/cordova/bmicalcuator/BmiCalculator/bmicalculator/platforms/android/res/drawable-ldpi/icon.png \
+/Users/dbg/Documents/cordova/bmicalcuator/BmiCalculator/bmicalculator/platforms/android/res/drawable-mdpi/icon.png \
+/Users/dbg/Documents/cordova/bmicalcuator/BmiCalculator/bmicalculator/platforms/android/res/drawable-xhdpi/icon.png \
+/Users/dbg/Documents/cordova/bmicalcuator/BmiCalculator/bmicalculator/platforms/android/res/values/strings.xml \
+/Users/dbg/Documents/cordova/bmicalcuator/BmiCalculator/bmicalculator/platforms/android/res/xml/config.xml \
+/Users/dbg/Documents/cordova/bmicalcuator/BmiCalculator/bmicalculator/platforms/android/bin/res/drawable/icon.png \
+/Users/dbg/Documents/cordova/bmicalcuator/BmiCalculator/bmicalculator/platforms/android/bin/res/drawable-hdpi/icon.png \
+/Users/dbg/Documents/cordova/bmicalcuator/BmiCalculator/bmicalculator/platforms/android/bin/res/drawable-ldpi/icon.png \
+/Users/dbg/Documents/cordova/bmicalcuator/BmiCalculator/bmicalculator/platforms/android/bin/res/drawable-mdpi/icon.png \
+/Users/dbg/Documents/cordova/bmicalcuator/BmiCalculator/bmicalculator/platforms/android/bin/res/drawable-xhdpi/icon.png \
+/Users/dbg/Documents/cordova/bmicalcuator/BmiCalculator/bmicalculator/platforms/android/assets/www \
+/Users/dbg/Documents/cordova/bmicalcuator/BmiCalculator/bmicalculator/platforms/android/assets/www/cordova.js \
+/Users/dbg/Documents/cordova/bmicalcuator/BmiCalculator/bmicalculator/platforms/android/assets/www/cordova_plugins.js \
+/Users/dbg/Documents/cordova/bmicalcuator/BmiCalculator/bmicalculator/platforms/android/assets/www/css \
+/Users/dbg/Documents/cordova/bmicalcuator/BmiCalculator/bmicalculator/platforms/android/assets/www/img \
+/Users/dbg/Documents/cordova/bmicalcuator/BmiCalculator/bmicalculator/platforms/android/assets/www/index.html \
+/Users/dbg/Documents/cordova/bmicalcuator/BmiCalculator/bmicalculator/platforms/android/assets/www/js \
+/Users/dbg/Documents/cordova/bmicalcuator/BmiCalculator/bmicalculator/platforms/android/assets/www/css/index.css \
+/Users/dbg/Documents/cordova/bmicalcuator/BmiCalculator/bmicalculator/platforms/android/assets/www/img/logo.png \
+/Users/dbg/Documents/cordova/bmicalcuator/BmiCalculator/bmicalculator/platforms/android/assets/www/js/calculate.js \
+/Users/dbg/Documents/cordova/bmicalcuator/BmiCalculator/bmicalculator/platforms/android/assets/www/js/index.js \
+/Users/dbg/Documents/cordova/bmicalcuator/BmiCalculator/bmicalculator/platforms/android/bin/AndroidManifest.xml \

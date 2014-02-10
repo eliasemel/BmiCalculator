@@ -28,9 +28,10 @@
         <script type="text/javascript" src="js/calculate.js"></script>
         <style>
         .buttstyle{
-            background-color: brown;
-            font-size: 14px;
-            margin-left:40%
+              background-color: brown;
+            font-size: 1.0em;
+             margin-top: 20px;
+             margin-left: 15%;
 
         }
         .formContiner
@@ -41,8 +42,22 @@
         }
         .inputstyle
         {
-            margin-left:15%
+
+            font-size: 1.0em;
+        }
+        ul.ulstyles li
+        {
+            list-style: none;
+
+            /* float: left;*/
+            margin-bottom: 2%;
+            width: 100%;
+
         }        
+        input
+        {
+            width: 30%;
+        }
         </style>
     <body>
         <!-- <div class="app">
@@ -53,19 +68,22 @@
             </div>
         </div> -->
         <div class="formContiner">
-            <div style="margin: 0 auto;width: 25%;">
+            <div style="margin: 0 auto;width: 50%;">
               
-                <h1>Simple Bmi 
-                    Tester</h1>
+                <h1 style="margin-top:60px">Simple Bmi 
+                    Calculator</h1>
                     <br><br><br>
-               <label class="inputstyle">Enter Height:</label>       
-            <input type="text"  id="firstval"/>
-            <br><br>
-            <label class="inputstyle">Enter Weight:</label>
-            <input type="text"  id="secondval"/>
-            <br><br>
-            <button class="buttstyle" onclick="calcuteBmi()">Test</button>
+               <ul class=ulstyles>    
+               <li><label class="inputstyle">Enter Height(in meter):</label>  </li>
+               <li > <input type="text" pattern="[0-9]*" id="height"/></li> 
+                <li> <label class="inputstyle">Enter Weight(in  kg):</label></li>
+                <li><input type="text" pattern="[0-9]*"  id="weight"/></li>
+                <li> <button class="buttstyle" onclick="calcuteBmi()">Gen Bmi</button></li>
+                 <ul>
+           
+    
             </div>
+
             
 
         </div>
