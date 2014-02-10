@@ -24,18 +24,55 @@
         <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
         <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
         <link rel="stylesheet" type="text/css" href="css/index.css" />
-        <title>Hello World</title>
-    </head>
+        <title >Hello World</title>
+        <script type="text/javascript" src="js/calculate.js"></script>
+        <style>
+        .buttstyle{
+            background-color: brown;
+            font-size: 14px;
+            margin-left:40%
+
+        }
+        .formContiner
+        {
+            width: 100%;
+            background-color: ivory;
+
+        }
+        .inputstyle
+        {
+            margin-left:15%
+        }        
+        </style>
     <body>
-        <div class="app">
+        <!-- <div class="app">
             <h1>Apache Cordova</h1>
             <div id="deviceready" class="blink">
                 <p class="event listening">Connecting to Device</p>
                 <p class="event received">Device is Ready</p>
             </div>
+        </div> -->
+        <div class="formContiner">
+            <div style="margin: 0 auto;width: 25%;">
+              
+                <h1>Simple Bmi 
+                    Tester</h1>
+                    <br><br><br>
+               <label class="inputstyle">Enter Height:</label>       
+            <input type="text"  id="firstval"/>
+            <br><br>
+            <label class="inputstyle">Enter Weight:</label>
+            <input type="text"  id="secondval"/>
+            <br><br>
+            <button class="buttstyle" onclick="calcuteBmi()">Test</button>
+            </div>
+            
+
         </div>
+ 
         <script type="text/javascript" src="cordova.js"></script>
         <script type="text/javascript" src="js/index.js"></script>
+        
         <script type="text/javascript">
             app.initialize();
         </script>

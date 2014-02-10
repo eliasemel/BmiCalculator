@@ -1,0 +1,34 @@
+Contents of /Users/dbg/Documents/cordova/bmicalcuator/BmiCalculator/bmicalculator/platforms/ios/HelloCordova/HelloCordova-Prefix.pch
+-x
+objective-c
+-arch
+i386
+-fretain-comments-from-system-headers
+-std=c99
+-fobjc-arc
+-fpascal-strings
+-O0
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+-fexceptions
+-fasm-blocks
+-g
+-fvisibility=hidden
+-fobjc-abi-version=2
+-fobjc-legacy-dispatch
+-mios-simulator-version-min=5.0
+-iquote
+-iquote
+-I/Users/dbg/Documents/cordova/bmicalcuator/BmiCalculator/bmicalculator/platforms/ios/DerivedData/HelloCordova/Build/Products/Debug-iphonesimulator/include
+-I/Users/dbg/Documents/cordova/bmicalcuator/BmiCalculator/bmicalculator/platforms/ios/DerivedData/HelloCordova/Build/Products/Debug-iphonesimulator/usr/local/lib/include
+-I/Users/dbg/Documents/cordova/bmicalcuator/BmiCalculator/bmicalculator/platforms/ios/DerivedData/HelloCordova/Build/Intermediates/UninstalledProducts/include
+-I/Users/dbg/Documents/cordova/bmicalcuator/BmiCalculator/bmicalculator/platforms/ios/DerivedData/HelloCordova/Build/Products/Debug-iphonesimulator
+-F/Users/dbg/Documents/cordova/bmicalcuator/BmiCalculator/bmicalculator/platforms/ios/DerivedData/HelloCordova/Build/Products/Debug-iphonesimulator
+-ferror-limit=10
+-working-directory=/Users/dbg/Documents/cordova/bmicalcuator/BmiCalculator/bmicalculator/platforms/ios
+-Xclang
+-detailed-preprocessing-record
+i386-apple-darwin13.0.0
+"4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)"
+SDK_PRODUCT_BUILD_VERSION=11B508
+11B508
